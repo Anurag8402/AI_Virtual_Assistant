@@ -4,7 +4,7 @@
 # lxml==4.9.1 (first install  this one)
 
 from requests_html import HTMLSession
-import spech_to_text
+import speech_to_text
 
 def Weather():
     s  =  HTMLSession()

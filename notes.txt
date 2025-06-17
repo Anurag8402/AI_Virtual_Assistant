@@ -1,0 +1,15 @@
+what is your name
+I ask my phone
+[2025-06-09 12:34:16] School
+[2025-06-09 12:35:28] your name is a assistant
+[2025-06-09 12:35:58] call to Sanket Patil
+[2025-06-09 13:53:31] open chat GPT
+[2025-06-09 13:54:28] class
+[2025-06-09 14:07:12] You should know both read and write time complexity
+[2025-06-09 14:08:36] And right time as one if we are adding at the end if you are inserting element or deleting element then
+[2025-06-09 14:09:38] Type
+[2025-06-09 14:10:00] Play consists of same data
+[2025-06-09 14:10:26] Array consists of same data type
+[2025-06-09 14:10:51] My name is anurag yadav
+[2025-06-09 14:11:13] You are my best friend
+[2025-06-09 14:11:38] You are doing better day by day

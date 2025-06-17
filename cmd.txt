@@ -10,5 +10,8 @@
 8. play music or song 
 9. open google or google 
 10. youtube or  open youtube
-11. weather
 12. music from my laptop
+13.voice caluclator  - calculate
+14.voice note - take note
+15.i'm feeling stressed or i need to relax or help me calm down
+16.close assistant

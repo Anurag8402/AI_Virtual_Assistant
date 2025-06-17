@@ -1,7 +1,7 @@
 import openai
 
 # Set your API key
-openai.api_key = "Replace with your key"  # Replace with your key
+openai.api_key = "EVR6J8-4TV974JL95"  # Replace with your key
 
 def chat_with_ai(prompt):
     try:

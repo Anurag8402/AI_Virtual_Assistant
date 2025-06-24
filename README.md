@@ -1,5 +1,5 @@
 🤖 AI Virtual Assistant – Python Desktop App
-=================================================
+================================================
 
 A Python-based voice-enabled virtual assistant that understands your commands and performs smart tasks like note-taking, web browsing, AI conversation, and app/file automation.
 

@@ -42,16 +42,16 @@ A Python-based voice-enabled virtual assistant that understands your commands an
 -------------------------------------------------
 AI_Virtual_Assistant/
 ├── assistant/
-│   ├── recognizer.py          # Handles voice recognition
-│   ├── speaker.py             # Handles text-to-speech
-│   ├── command_processor.py   # Processes commands
-│   ├── openai_chat.py         # Integrates OpenAI GPT
-│   ├── note_manager.py        # Create and manage notes
-│   └── main.py                # Application entry point
+│   ├── recognizer.py          
+│   ├── speaker.py             
+│   ├── command_processor.py  
+│   ├── openai_chat.py        
+│   ├── note_manager.py        
+│   └── main.py               
 ├── assets/
-│   └── beep.wav               # Optional assistant sound
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project documentation
+│   └── beep.wav              
+├── requirements.txt           
+└── README.md                
 
 -------------------------------------------------
 🔧 Setup Instructions
